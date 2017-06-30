@@ -1,0 +1,25 @@
+{
+  "name": "react-native-google-image-search",
+  "version": "0.0.1",
+  "description": "node-google-image-search ported to react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barylskyigb/react-native-google-image-search.git"
+  },
+  "keywords": [
+    "google-image-search"
+  ],
+  "author": "hleb.barylskyi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Barylskyigb/react-native-google-image-search/issues"
+  },
+  "homepage": "https://github.com/Barylskyigb/react-native-google-image-search#readme",
+  "dependencies": {
+    "react-native-config": "^0.5.0"
+  }
+}
