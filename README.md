@@ -3,7 +3,9 @@ It's using react-native-config instead of dotenv to be usable inside react-nativ
 
 Setup
 
-Create a .env file with your CSE id and api key, for example:
+1. Install react-native-config.
+
+2. Create a .env file with your CSE id and api key, for example:
 ```
 CSE_ID=000481220124135128830617:ndojhfef1cq
 CSE_API_KEY=AIzaSyBaBZ_fsdfsdfRd36hUSy0PUlqZxfF23sUQ
