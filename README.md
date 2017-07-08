@@ -1,5 +1,5 @@
 This package is ported from node-google-image-search.
-It's using react-native-config instead of dotenv to be usable inside react-native.
+It's using react-native-config instead of dotenv to be usable inside react-native (and is also using es6 instead of old syntax).
 
 Setup
 
